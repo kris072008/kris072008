@@ -1,3 +1,23 @@
+<div align="center">
+  
+  <img src="https://www.gitskins.com/api/section/wordmark?username=kris072008&theme=github-dark" alt="Krishna Mahajan" width="860" />
+  
+  <img src="https://www.gitskins.com/api/section/hero?username=kris072008&theme=github-dark&style=aura" alt="Profile hero" width="860" />
+  
+  <img src="https://www.gitskins.com/api/section/stats?username=kris072008&theme=github-dark" alt="GitHub stats" width="860" />
+  
+  <img src="https://www.gitskins.com/api/section/stack?username=kris072008&theme=github-dark" alt="Language stack" width="860" />
+  
+  <img src="https://www.gitskins.com/api/section/heatmap?username=kris072008&theme=github-dark" alt="Contribution activity" width="860" />
+  
+  <img src="https://www.gitskins.com/api/section/chess?username=kris072008&theme=github-dark" alt="Chess replay" width="860" />
+  
+  <img src="https://www.gitskins.com/api/section/projects?username=kris072008&theme=github-dark" alt="Projects" width="860" />
+  
+  <img src="https://www.gitskins.com/api/section/social?username=kris072008&theme=github-dark" alt="Links" width="860" />
+  
+  </div>
+  
 # Krishna Mahajan
 
 Robotics and AI student at PSB Academy (University of Hertfordshire), based in Singapore. I build embedded systems, reinforcement learning agents, and robot simulations, mostly in Python and C++.
