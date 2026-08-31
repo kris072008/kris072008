@@ -20,7 +20,7 @@
   
 # Krishna Mahajan
 
-Robotics and AI student at PSB Academy (University of Hertfordshire), based in Singapore. I build embedded systems, reinforcement learning agents, and robot simulations, mostly in Python and C++.
+Robotics and AI student at the University of Hertfordshire, based in Singapore. I build embedded systems, reinforcement learning agents, and robot simulations, mostly in Python and C++.
 
 ## What I work on
 
