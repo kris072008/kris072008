@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Krishna%20Mahajan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%26%20AI%20%C2%B7%20Singapore&descAlignY=60&descSize=18" width="100%" alt="Krishna Mahajan" />
+<img src="banner.svg" width="100%" alt="Krishna Mahajan" />
 
 <a href="https://github.com/kris072008"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Robotics+%26+AI+student+%40+UoH;Embedded+systems+on+STM32+%2B+Arduino;Reinforcement+learning+agents;Robot+simulation+with+ROS+2+%26+Webots;Terminal+tools+for+robotics+nerds" alt="Typing intro" /></a>
 
@@ -74,4 +74,4 @@ software:  [ROS 2, Webots, CoppeliaSim, OpenCV, YOLOv8, Ollama, Godot, Fusion 36
 
 > Much of my work still lives on my own machine and I'm pushing it here bit by bit, so expect this profile to keep growing.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="" />
+<img src="footer.svg" width="100%" alt="" />
