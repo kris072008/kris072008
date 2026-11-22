@@ -45,7 +45,6 @@ software:  [ROS 2, Webots, CoppeliaSim, OpenCV, YOLOv8, Ollama, Godot, Fusion 36
 
 | Project | What it does |
 |---|---|
-| [webots-cnn-colour-detection](https://github.com/kris072008/webots-cnn-colour-detection) | e-puck colour-block search in Webots with OpenCV and a quantised CNN |
 | [termsim](https://github.com/kris072008/termsim) | 2D rigid-body physics sandbox in the terminal |
 | [pathviz](https://github.com/kris072008/pathviz) | Pathfinding algorithms racing each other in the terminal |
 | [firefly-brain](https://github.com/kris072008/firefly-brain) | Drosophila connectome running as a live terminal shader |
