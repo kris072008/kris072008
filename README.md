@@ -32,7 +32,7 @@ software:  [ROS 2, Webots, CoppeliaSim, OpenCV, YOLOv8, Ollama, Godot, Fusion 36
 
 <a href="https://github.com/kris072008/econexus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kris072008&repo=econexus&theme=github_dark&hide_border=true" alt="econexus" width="49%" /></a>
 <a href="https://github.com/kris072008/luanti-aibot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kris072008&repo=luanti-aibot&theme=github_dark&hide_border=true" alt="luanti-aibot" width="49%" /></a>
-<a href="https://github.com/kris072008/webots-cnn-colour-detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kris072008&repo=webots-cnn-colour-detection&theme=github_dark&hide_border=true" alt="webots-cnn-colour-detection" width="49%" /></a>
+<a href="https://github.com/kris072008/serialscope"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kris072008&repo=serialscope&theme=github_dark&hide_border=true" alt="serialscope" width="49%" /></a>
 <a href="https://github.com/kris072008/backgammon-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kris072008&repo=backgammon-ai&theme=github_dark&hide_border=true" alt="backgammon-ai" width="49%" /></a>
 <a href="https://github.com/kris072008/slamscope"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kris072008&repo=slamscope&theme=github_dark&hide_border=true" alt="slamscope" width="49%" /></a>
 <a href="https://github.com/kris072008/rps-ai-booth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kris072008&repo=rps-ai-booth&theme=github_dark&hide_border=true" alt="rps-ai-booth" width="49%" /></a>
@@ -45,7 +45,7 @@ software:  [ROS 2, Webots, CoppeliaSim, OpenCV, YOLOv8, Ollama, Godot, Fusion 36
 
 | Project | What it does |
 |---|---|
-| [serialscope](https://github.com/kris072008/serialscope) | Live-plotting serial monitor for your terminal |
+| [webots-cnn-colour-detection](https://github.com/kris072008/webots-cnn-colour-detection) | e-puck colour-block search in Webots with OpenCV and a quantised CNN |
 | [termsim](https://github.com/kris072008/termsim) | 2D rigid-body physics sandbox in the terminal |
 | [pathviz](https://github.com/kris072008/pathviz) | Pathfinding algorithms racing each other in the terminal |
 | [firefly-brain](https://github.com/kris072008/firefly-brain) | Drosophila connectome running as a live terminal shader |
