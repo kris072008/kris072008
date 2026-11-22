@@ -54,6 +54,16 @@ software:  [ROS 2, Webots, CoppeliaSim, OpenCV, YOLOv8, Ollama, Godot, Fusion 36
 
 </details>
 
+### 🌍 Open-source contributions
+
+Contributions to [**Webots**](https://github.com/cyberbotics/webots), the open-source robot simulator by Cyberbotics:
+
+| Status | Pull request |
+|---|---|
+| ![merged](https://img.shields.io/badge/merged-8957e5?style=flat-square&logo=github) | [#7116 Fix Windows packaging: don't hard-code the OpenSSL DLL version](https://github.com/cyberbotics/webots/pull/7116) |
+| ![merged](https://img.shields.io/badge/merged-8957e5?style=flat-square&logo=github) | [#7114 Disable HTTP/2 for PROTO and texture downloads](https://github.com/cyberbotics/webots/pull/7114) |
+| ![open](https://img.shields.io/badge/open-238636?style=flat-square&logo=github) | [#7115 Fix Windows build: use world basis vectors instead of indexOf() in WbGps and WbAltimeter](https://github.com/cyberbotics/webots/pull/7115) |
+
 ### 🔬 What I work on
 
 - **Embedded and hardware:** STM32 and Arduino firmware, sensor telemetry and Raspberry Pi robot builds.
