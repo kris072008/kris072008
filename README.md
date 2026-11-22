@@ -1,47 +1,77 @@
 <div align="center">
-  
-  <img src="https://www.gitskins.com/api/section/wordmark?username=kris072008&theme=github-dark&v=2" alt="Krishna Mahajan" width="860" />
-  
-  <img src="https://www.gitskins.com/api/section/hero?username=kris072008&theme=github-dark&style=aura&v=2" alt="Profile hero" width="860" />
-  
-  <img src="https://www.gitskins.com/api/section/stats?username=kris072008&theme=github-dark&v=2" alt="GitHub stats" width="860" />
-  
-  <img src="https://www.gitskins.com/api/section/stack?username=kris072008&theme=github-dark&v=2" alt="Language stack" width="860" />
-  
-  <img src="https://www.gitskins.com/api/section/heatmap?username=kris072008&theme=github-dark&v=2" alt="Contribution activity" width="860" />
-  
-  <img src="https://www.gitskins.com/api/section/chess?username=kris072008&theme=github-dark&v=2" alt="Chess replay" width="860" />
-  
-  <a href="https://github.com/kris072008/serialscope"><img src="https://socialify.git.ci/kris072008/serialscope/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=0&pattern=Solid&stargazers=1&theme=Dark" alt="serialscope" width="48%" /></a> <a href="https://github.com/kris072008/termsim"><img src="https://socialify.git.ci/kris072008/termsim/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=0&pattern=Solid&stargazers=1&theme=Dark" alt="termsim" width="48%" /></a> <a href="https://github.com/kris072008/pathviz"><img src="https://socialify.git.ci/kris072008/pathviz/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=0&pattern=Solid&stargazers=1&theme=Dark" alt="pathviz" width="48%" /></a> <a href="https://github.com/kris072008/slamscope"><img src="https://socialify.git.ci/kris072008/slamscope/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=0&pattern=Solid&stargazers=1&theme=Dark" alt="slamscope" width="48%" /></a> <a href="https://github.com/kris072008/autodesk"><img src="https://socialify.git.ci/kris072008/autodesk/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=0&pattern=Solid&stargazers=1&theme=Dark" alt="autodesk" width="48%" /></a> <a href="https://github.com/kris072008/rps-ai-booth"><img src="https://socialify.git.ci/kris072008/rps-ai-booth/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=0&pattern=Solid&stargazers=1&theme=Dark" alt="rps-ai-booth" width="48%" /></a> <a href="https://github.com/kris072008/firefly-brain"><img src="https://socialify.git.ci/kris072008/firefly-brain/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=0&pattern=Solid&stargazers=1&theme=Dark&cacheBust=1" alt="firefly-brain" width="48%" /></a> <a href="https://github.com/kris072008/backgammon-ai"><img src="https://socialify.git.ci/kris072008/backgammon-ai/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=0&pattern=Solid&stargazers=1&theme=Dark&cacheBust=1" alt="backgammon-ai" width="48%" /></a> <a href="https://github.com/kris072008/luanti-aibot"><img src="https://socialify.git.ci/kris072008/luanti-aibot/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=0&pattern=Solid&stargazers=1&theme=Dark&cacheBust=1" alt="luanti-aibot" width="48%" /></a> <a href="https://github.com/kris072008/econexus"><img src="https://socialify.git.ci/kris072008/econexus/image?description=1&font=Source%20Code%20Pro&language=1&name=1&owner=0&pattern=Solid&stargazers=1&theme=Dark&cacheBust=1" alt="econexus" width="48%" /></a>
-  
-  <img src="https://www.gitskins.com/api/section/social?username=kris072008&theme=github-dark&v=2" alt="Links" width="860" />
-  
-  </div>
-  
-# Krishna Mahajan
 
-Robotics and AI student at the University of Hertfordshire, based in Singapore. I build embedded systems, reinforcement learning agents, and robot simulations, mostly in Python and C++.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:8957e5&height=200&section=header&text=Krishna%20Mahajan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Robotics%20%26%20AI%20%C2%B7%20Singapore&descAlignY=60&descSize=18" width="100%" alt="Krishna Mahajan" />
 
-## What I work on
+<a href="https://github.com/kris072008"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Robotics+%26+AI+student+%40+UoH;Embedded+systems+on+STM32+%2B+Arduino;Reinforcement+learning+agents;Robot+simulation+with+ROS+2+%26+Webots;Terminal+tools+for+robotics+nerds" alt="Typing intro" /></a>
 
-**Embedded and hardware.** STM32 and Arduino firmware, including a telemetry system for logging and streaming sensor data off a microcontroller, with a Raspberry Pi handling the higher-level side of robot builds.
+<a href="https://www.linkedin.com/in/krishna-mahajan-308066411"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/University%20of%20Hertfordshire-1f2937?style=for-the-badge" alt="University of Hertfordshire" />
+<img src="https://komarev.com/ghpvc/?username=kris072008&style=for-the-badge&color=8957e5&label=Profile+views" alt="Profile views" />
 
-**Reinforcement learning.** Agents that learn to play games from observations, including a Clash Royale bot, along with the surrounding work of environment wrappers, reward shaping, and training loops.
+</div>
 
-**Simulation.** Robot scenes and control experiments in CoppeliaSim, with ROS 2 for message passing between nodes.
+### `$ whoami`
 
-**AI systems.** A multi-agent LLM pipeline where separate agents plan, execute, and review each other rather than a single prompt doing everything.
+Robotics and AI student at the University of Hertfordshire, based in Singapore. I build embedded systems, reinforcement learning agents and robot simulations, mostly in Python and C++.
 
-**Game-playing agents.** [luanti-aibot](https://github.com/kris072008/luanti-aibot), a Lua mod where a scripted planner and a local LLM (llama3.2 via Ollama) play VoxeLibre end to end, from an empty inventory to killing the Ender Dragon.
+```yaml
+focus:     [embedded systems, reinforcement learning, robot simulation, AI agents]
+hardware:  [STM32, Arduino, Raspberry Pi 4, Dobot Magician, e-puck]
+software:  [ROS 2, Webots, CoppeliaSim, OpenCV, YOLOv8, Ollama, Godot, Fusion 360]
+```
 
-**Games.** A football game built in Godot, which is where most of my gameplay and physics tinkering happens.
+### 🛠️ Toolbox
 
-## Toolbox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,lua,ros,arduino,raspberrypi,opencv,pytorch,linux,godot,git&perline=12" alt="Tech stack" />
+</p>
 
-Python, C++, ROS 2, STM32, Arduino, Raspberry Pi, CoppeliaSim, Godot, Autodesk Fusion 360.
+### 🤖 Featured projects
 
-## Elsewhere
+<div align="center">
 
-LinkedIn: https://www.linkedin.com/in/krishna-mahajan-308066411
+<a href="https://github.com/kris072008/econexus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kris072008&repo=econexus&theme=github_dark&hide_border=true" alt="econexus" width="49%" /></a>
+<a href="https://github.com/kris072008/luanti-aibot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kris072008&repo=luanti-aibot&theme=github_dark&hide_border=true" alt="luanti-aibot" width="49%" /></a>
+<a href="https://github.com/kris072008/webots-cnn-colour-detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kris072008&repo=webots-cnn-colour-detection&theme=github_dark&hide_border=true" alt="webots-cnn-colour-detection" width="49%" /></a>
+<a href="https://github.com/kris072008/backgammon-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kris072008&repo=backgammon-ai&theme=github_dark&hide_border=true" alt="backgammon-ai" width="49%" /></a>
+<a href="https://github.com/kris072008/slamscope"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kris072008&repo=slamscope&theme=github_dark&hide_border=true" alt="slamscope" width="49%" /></a>
+<a href="https://github.com/kris072008/rps-ai-booth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kris072008&repo=rps-ai-booth&theme=github_dark&hide_border=true" alt="rps-ai-booth" width="49%" /></a>
 
-Most of the work above still lives on my own machine. I am in the process of pushing it here, so the repository list is currently thinner than the project list.
+</div>
+
+<details>
+<summary><b>More projects</b></summary>
+<br />
+
+| Project | What it does |
+|---|---|
+| [serialscope](https://github.com/kris072008/serialscope) | Live-plotting serial monitor for your terminal |
+| [termsim](https://github.com/kris072008/termsim) | 2D rigid-body physics sandbox in the terminal |
+| [pathviz](https://github.com/kris072008/pathviz) | Pathfinding algorithms racing each other in the terminal |
+| [firefly-brain](https://github.com/kris072008/firefly-brain) | Drosophila connectome running as a live terminal shader |
+| [applied-robotics-ai-project](https://github.com/kris072008/applied-robotics-ai-project) | Fruit-fly connectome simulation with LIF neurons |
+| [autodesk](https://github.com/kris072008/autodesk) | Fusion 360 Python scripts that generate parametric models |
+
+</details>
+
+### 🔬 What I work on
+
+- **Embedded and hardware:** STM32 and Arduino firmware, sensor telemetry and Raspberry Pi robot builds.
+- **Reinforcement learning:** game-playing agents, environment wrappers, reward shaping and training loops.
+- **Simulation:** robot scenes and control in Webots and CoppeliaSim, with ROS 2 between nodes.
+- **AI systems:** multi-agent LLM pipelines where agents plan, execute and review each other's work.
+
+### 📊 GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kris072008&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kris072008&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" alt="Top languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kris072008&bg_color=0d1117&color=58a6ff&line=8957e5&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution graph" />
+
+</div>
+
+> Much of my work still lives on my own machine and I'm pushing it here bit by bit, so expect this profile to keep growing.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=100&section=footer" width="100%" alt="" />
